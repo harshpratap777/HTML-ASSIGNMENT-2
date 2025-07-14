@@ -17,10 +17,6 @@ This structure improves **SEO**, **accessibility**, and **code readability**.
 
 ---
 
-## 📁 Files Included
-
----
-
 ## 🧠 Key Concepts Practiced
 
 | Feature             | Description |
